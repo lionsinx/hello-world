@@ -1,0 +1,4 @@
+﻿# 将 dingding.py 和 mail.py 这两个文件 封装成两个类或函数 放在同一个文件中
+
+# 将 hello.py 和 hello.py.bak2 两个文件内容封装成一个功能，使其能将数据推送到上述任意方法中
+# 登录pass.html时，将登录信息（账号，密码，时间）发送到dingding或企业微信中。
